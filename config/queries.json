@@ -1,0 +1,18 @@
+{
+  "queries": [
+    {
+      "enabled": true,
+      "nicho": "Salão de beleza",
+      "cidade": "Joinville, SC",
+      "bairro": "América",
+      "max_results": 80
+    },
+    {
+      "enabled": false,
+      "nicho": "Barbearia",
+      "cidade": "Joinville, SC",
+      "bairro": "Centro",
+      "max_results": 80
+    }
+  ]
+}
